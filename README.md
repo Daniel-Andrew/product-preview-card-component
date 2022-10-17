@@ -7,9 +7,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](../screenshots/Product preview card component - desktop.png)
+![Desktop](../Screenshots/product-preview-card-component-desktop.png)
 
-![Mobile](../screenshots/product-preview-card-component-desktop.png)
+![Mobile](../Screenshots/product-preview-card-component-mobile.png)
 
 ### Links
 
