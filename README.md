@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Product Preview Card Component](https://your-solution-url.com)
+- Solution URL: [Product Preview Card Component](https://www.frontendmentor.io/solutions/product-preview-card-component-HXfN_bEwc6)
 - Live Site URL: [Product Preview Card Component](https://daniel-andrew.github.io/product-preview-card-component/)
 
 ### Built with
