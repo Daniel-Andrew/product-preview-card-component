@@ -30,6 +30,6 @@ I now know a little more about flexbox.
 
 ## Author
 
-- Website - [My Website](https://www.your-site.com)
+- Website - [My Website](https://)
 - Frontend Mentor - [@Daniel-Andrew](https://www.frontendmentor.io/profile/Daniel-Andrew)
-- Twitter - [@yourusername](https://www.twitter.com/Daniel_M_Andrew)
+- Twitter - [@Daniel_M_Andrew](https://www.twitter.com/Daniel_M_Andrew)
